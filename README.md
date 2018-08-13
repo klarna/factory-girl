@@ -1,6 +1,6 @@
 # factory-girl
 
-[![Build Status](https://travis-ci.org/aexmachina/factory-girl.png)](https://travis-ci.org/aexmachina/factory-girl)
+[![Build Status](https://travis-ci.org/klarna/factory-girl.png)](https://travis-ci.org/klarna/factory-girl)
 
 `factory-girl` is a factory library for [Node.js](http://nodejs.org/) and the browser that is inspired by [Factory\_girl](http://github.com/thoughtbot/factory_girl). It works asynchronously and supports associations and the use of functions for generating attributes.
 
